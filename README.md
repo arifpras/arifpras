@@ -5,3 +5,4 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 [![@arifpras's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=dark)](https://github.com/arifpras/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=dark&layout=compact)](https://github.com/arifpras/github-readme-stats)
