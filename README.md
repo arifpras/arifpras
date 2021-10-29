@@ -4,5 +4,9 @@
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-[![@arifpras's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=dark)](https://github.com/arifpras/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=dark&layout=compact)](https://github.com/arifpras/github-readme-stats)
+<a href="https://github.com/arifpras/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=dark&count_private=true)](https://github.com/arifpras/github-readme-stats" />
+</a>
+<a href="https://github.com/arifpras/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=dark&layout=compact)](https://github.com/arifpras/github-readme-stats" />
+</a>
