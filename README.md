@@ -5,8 +5,8 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <a href="https://github.com/arifpras/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=dark&count_private=true)](https://github.com/arifpras/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/arifpras/github-readme-stats" />
 </a>
 <a href="https://github.com/arifpras/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=dark&layout=compact)](https://github.com/arifpras/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=dark&layout=compact&hide_border=true)](https://github.com/arifpras/github-readme-stats" />
 </a>
