@@ -1,11 +1,16 @@
-<img align="right" alt="GIF" src="https://pa1.narvii.com/5869/51088074557b4091944c2007ec33384020920f87_hq.gif?raw=true"/>
+<h3 align="left">A little bit more about me:</h3>
 
-<h2 align="left">About me:</h2>
+- :sailboat: A civil servant • <a href="https://www.kemenkeu.go.id/">Republic of Indonesia’s Ministry of Finance</a>
+- :rocket: A scholarship awardee • <a href="https://www.lpdp.kemenkeu.go.id/in/home">Indonesia Endowment Fund for Education ("Lembaga Pengelola Dana Pendidikan")</a>
+- :mountain_cableway: A PhD student • <a href="https://www.nottingham.ac.uk/economics/people/arif.sulistiono">School of Economics, the University of Nottingham</a>
+  + ...with research interests in Indonesia's government bonds market and their bondholders' behaviour.
 
-<p>My name is Arif, an employee of the Republic of Indonesia’s Ministry of Finance. Funded by the Indonesia Endowment Fund for Education ("Lembaga Pengelola Dana Pendidikan"), at the moment, on study leave to join a PhD program in the <a href="https://www.nottingham.ac.uk/economics/people/arif.sulistiono">School of Economics, the University of Nottingham</a> with research interests in Indonesia's government bonds market and their bondholders' behaviour.
+<h4 align="left">Among others, also passionate in:</h4>
 
-[![Twitter: arifpras](https://img.shields.io/twitter/follow/arifpras?style=social)](https://twitter.com/arifpras)
-![](https://visitor-badge.glitch.me/badge?page_id=arifpras)
+- :pager: Googling while coding
+- :bar_chart: Visualising data
+- :phone: Exploring anime
+- :incoming_envelope: Discussing manga
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
