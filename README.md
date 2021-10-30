@@ -1,3 +1,7 @@
+<a href="https://visitor-badge.glitch.me/badge?page_id=arifpras">
+  <img align="right" src = "https://visitor-badge.glitch.me/badge?page_id=arifpras" />
+</a>
+
 <h3 align="left">A little bit more about me:</h3>
 
 - :sailboat: A civil servant • <a href="https://www.kemenkeu.go.id/">Republic of Indonesia’s Ministry of Finance</a>
@@ -19,8 +23,4 @@
 </a>
 <a href="https://github.com/arifpras/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=gotham&layout=compact&hide_border=true)](https://github.com/arifpras/github-readme-stats" />
-</a>
-
-<a href="https://visitor-badge.glitch.me/badge?page_id=arifpras">
-  <img align="right" src = "https://visitor-badge.glitch.me/badge?page_id=arifpras" />
 </a>
